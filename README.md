@@ -7,7 +7,12 @@ Ported over from the [original project](https://github.com/Dnawrkshp/uya-medius-
 
 ## Usage
 
-CLI usage:
+### Script usage:
+
+You can execute the `build.sh` or `build.bat` script to build the jar. Then
+you can execute the `launch.sh` or `launch.bat` script to run the jar located in `target/`.
+
+### CLI usage:
 
 ```bash
 uyamediustool.jar <mode> -k [key] -m <message>
