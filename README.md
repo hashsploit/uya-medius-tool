@@ -5,6 +5,9 @@ medius network packets for the PlayStation 2.
 
 Ported over from the [original project](https://github.com/Dnawrkshp/uya-medius-encryption) in C#.
 
+You can read more about the reverse engineering of the Ratchet & Clank 3: Up Your Arsenal
+protocol [here](https://wiki.hashsploit.net/Ratchet_and_Clank_3:Protocol).
+
 ## Usage
 
 ### Script usage:
