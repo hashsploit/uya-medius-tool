@@ -15,6 +15,11 @@ protocol [here](https://wiki.hashsploit.net/Ratchet_and_Clank_3:Protocol).
 You can execute the `build.sh` or `build.bat` script to build the jar. Then
 you can execute the `launch.sh` or `launch.bat` script to run the jar located in `target/`.
 
+Example:
+```bash
+./launch.sh <mode> -k [key] -m <message>
+```
+
 ### CLI usage:
 
 ```bash
